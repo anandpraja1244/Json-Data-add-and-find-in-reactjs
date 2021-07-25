@@ -1,0 +1,110 @@
+[
+    {    "id":"1",
+        "name":"Anand",
+        "address":"amuri",
+        "pincode":"276406",
+        "adhar_no":"23456",
+        "phone_no":"8896769694",
+        "lisence_no":"23456"
+
+    },
+
+    {    "id":"2",
+        "name":"Anan",
+        "address":"amurai",
+        "pincode":"276506",
+        "adhar_no":"23456",
+        "phone_no":"8896734694",
+        "lisence_no":"24456"
+
+    },
+    {    "id":"3",
+        "name":"Aman",
+        "address":"asona",
+        "pincode":"276404",
+        "adhar_no":"23457",
+        "phone_no":"8896769693",
+        "lisence_no":"23457"
+
+    },
+    {    "id":"4",
+        "name":"rohan",
+        "address":"delhi",
+        "pincode":"276006",
+        "adhar_no":"23456",
+        "phone_no":"8896763494",
+        "lisence_no":"23206"
+
+    },
+    {    "id":"5",
+        "name":"Ana",
+        "address":"ameriac",
+        "pincode":"276421",
+        "adhar_no":"234056",
+        "phone_no":"8892069694",
+        "lisence_no":"20456"
+
+    },
+    {    "id":"6",
+        "name":"Akash",
+        "address":"noida",
+        "pincode":"273456",
+        "adhar_no":"234567",
+        "phone_no":"8896700694",
+        "lisence_no":"20956"
+
+    },
+    {    "id":"7",
+        "name":"Anu",
+        "address":"noida",
+        "pincode":"276400",
+        "adhar_no":"23408",
+        "phone_no":"8896760994",
+        "lisence_no":"23450"
+
+    },{    "id":"8",
+        "name":"arun",
+        "address":"kolkata",
+        "pincode":"270001",
+        "adhar_no":"234004",
+        "phone_no":"8896769904",
+        "lisence_no":"230006"
+
+    },
+    {    "id":"9",
+        "name":"umesh",
+        "address":"varansi",
+        "pincode":"276436",
+        "adhar_no":"234006",
+        "phone_no":"889689694",
+        "lisence_no":"23056"
+
+    },
+    {    "id":"10",
+        "name":"prem",
+        "address":"varansi",
+        "pincode":"276400",
+        "adhar_no":"23466",
+        "phone_no":"8896755694",
+        "lisence_no":"23006"
+
+    },
+    {    "id":"9",
+        "name":"umesh",
+        "address":"varansi",
+        "pincode":"276436",
+        "adhar_no":"234006",
+        "phone_no":"889689694",
+        "lisence_no":"23056"
+
+    },
+    {    "id":"10",
+        "name":"prem",
+        "address":"varansi",
+        "pincode":"276400",
+        "adhar_no":"23466",
+        "phone_no":"8896755694",
+        "lisence_no":"23006"
+
+    }
+]
